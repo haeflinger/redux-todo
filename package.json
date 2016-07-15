@@ -1,0 +1,16 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-stage-2": "^6.11.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
